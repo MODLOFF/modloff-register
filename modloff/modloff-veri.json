@@ -1,0 +1,32 @@
+{
+
+    "sunucuisim": " ", 
+    "sunucutagı": "†",
+    "sunucutagı2": "•",
+    "sohbetkanalı": " ",
+    "kayitkanali": " ",
+    "kurallar": " ",
+    "tagrolü": " ",
+    "etikettagı": "",
+    "taglog": " ",
+    "kayıtsız": [" "],
+    "register": [""],
+    "yenihesap": " ",
+    "viprolü": " ",
+    "booosters": " ",
+    "erkek": [" "," "," "],
+    "kız": [" "," "," "],
+    "üstyt": [" "],
+    "altyt": [" "],
+
+    "emojiler": {
+
+        "onay": " ",
+        "iptal": " ",
+        "hg": " ",
+        "çizgi": " "
+
+
+    }
+
+}
